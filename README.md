@@ -34,3 +34,7 @@ I forhold til lagring og sikring ville jeg benyttet godt etablerte løsninger og
 
 ## Oppgave 4 (Frivillig) 
 - Hvordan ville dere lagt opp en Gründer-modul for en ungdom som ønsker å starte ENK eller AS? Hvilke steg ville dere lagt inn, og hvordan ville dere gjort det forståelig?
+
+Jeg ville lagt opp en Gründer-modul som guider ungdom steg for steg gjennom prosessen med å starte egen bedrift. Først en enkel introduksjon som forklarer hva det vil si å være gründer og forskjellen mellom ENK og AS. Deretter en veileder som hjelper med idéutvikling, valg av selskapsform, registrering i Brønnøysundregistrene og grunnleggende økonomi.
+
+For å gjøre det forståelig ville jeg brukt korte forklaringer, enkle ord, illustrasjoner og eksempler fra unge gründere. En fremdriftslinje og tydelige steg ville gjort prosessen lett å følge og motiverende for brukeren.
